@@ -5,3 +5,8 @@ LTTS EMBEDDED C PROJECT
 
 ### Activity 1
 
+### In Action
+
+|Logic-00|Logic-01|Logic-10|Logic-11|  
+|:--:|:--:|:--:|:--:|  
+
