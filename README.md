@@ -8,7 +8,7 @@ LTTS EMBEDDED C PROJECT
 
 ### Activity 2
 
-![image]
+![image](https://user-images.githubusercontent.com/62830313/127743004-4e412f0f-f462-4f22-ae13-54f3e9a92b43.png)
 
 ### Activity 3
 
